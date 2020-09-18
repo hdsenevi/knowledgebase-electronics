@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    pathPrefix: '/knowledgebase-electronics',
+    siteUrl: 'https://hdsenevi.github.io',
     gaTrackingId: null,
     trailingSlash: false,
   },
