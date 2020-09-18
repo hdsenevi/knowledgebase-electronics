@@ -39,6 +39,7 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/introduction', // add trailing slash if enabled above
+      '/history',
       '/codeblock',
     ],
     collapsedNav: [
