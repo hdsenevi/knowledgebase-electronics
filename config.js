@@ -40,10 +40,10 @@ const config = {
     forcedNavOrder: [
       '/introduction', // add trailing slash if enabled above
       '/history',
-      '/codeblock',
+      '/theory',
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+      '/theory', // add trailing slash if enabled above
     ],
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: false,
