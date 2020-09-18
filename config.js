@@ -55,7 +55,7 @@ const config = {
     description: 'My personal knowledge base for electronics',
     ogImage: null,
     docsLocation: 'https://github.com/hdsenevi/knowledgebase-electronics/tree/master/content',
-    favicon: 'https://github.com/hdsenevi/knowledgebase-electronics/tree/master/src/images/favicon.png',
+    favicon: 'https://github.com/hdsenevi/knowledgebase-electronics/tree/master/src/images/img/hasura_icon_black.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
